@@ -93,7 +93,7 @@ html,body{
               </svg>
             </span>
           </h1>
-          <div class="sub">Developer • Reverse Eng • 0xSec</div>
+          <div class="sub">Developer • Seller • Designer</div>
         </div>
       </div>
       <!-- Badges tách riêng, email cùng màu fg -->
